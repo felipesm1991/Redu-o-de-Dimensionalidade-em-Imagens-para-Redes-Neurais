@@ -1,1 +1,1 @@
-# Redu-o-de-Dimensionalidade-em-Imagens-para-Redes-Neurais
+# Reducao-de-Dimensionalidade-em-Imagens-para-Redes-Neurais
